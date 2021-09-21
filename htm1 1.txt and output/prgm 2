@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>
+webpage
+</title>
+</head>
+<p>
+    our department is IT BTech IT prepares students in the concepts of software development, information security, business software, maintaining databases and networks during the 4 years of education. BTech IT directs towards a bright future in the fields of software engineering and development. 
+
+BTech IT Admission takes place through entrance exams such as JEE Main, JEE Advanced, VITEEE, WBJEE etc. Students must clear the entrance exams with good results in order to study from a college of their choice. 
+
+IT courses are in great demand since IT is a dominant industry in India. Students need to be good in Maths and Physics to excel in this line of studies and work. 
+</p>
+<ol>
+    <li>
+        DCCN
+        </li>
+        <li>SE</li>
+</ol>
+<ul>
+    <li>
+        ML
+    </li>
+    <li> DA</li>
+</ul>
+<dl>
+    <dt>college</dt>
+    <dd>DEPARTMENT</dd>
+    <dt>IT</dt>
+    <dd> courses</dd>
+</dl>
+</html>
+output
+file:///C:/Users/sonik/OneDrive/Desktop/department.html
