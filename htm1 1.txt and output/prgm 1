@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+FRAME PAGES
+</title>
+</head>
+<FRAMESET cols = "20%,60%,20%">
+<a href = "https://byjus.com/commerce/meaning-and-functions-of-environment/">
+<FRAME src ="C:\Users\sonik\Downloads\IMAGE.JPEG">
+<FRAME src ="C:\Users\sonik\Downloads\IMAGE.JPEG">
+<FRAME src = "C:\Users\sonik\Downloads\IMAGE.JPEG">
+</FRAMESET>
+</html>
+
+// output
+file:///C:/Users/sonik/OneDrive/Desktop/frame.html
