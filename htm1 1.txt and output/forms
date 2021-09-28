@@ -1,0 +1,128 @@
+<html>
+<body style = "background-color:skyblue;">
+    <h1 align = 'center'>Alumni Registration Form</h1>
+<form>
+  <label for="fname">Name:</label>
+  <input type="text" id="fname" name="fname"><br>
+  <br>
+  <label for="fathersname">Father's name:</label>
+  <input type="text" id="fathersname" name="fathersname"><br>
+  <br>
+  <label for="date of birth">Date Of Birth:</label>
+  <input type="text" id="date of birth" name="date of birth"><br>
+  <br>
+  <label for = "gender">Gender:</label>
+  <input type="radio" id="Gender" name="Gender" value="male">
+  <label for="Gender">male</label>
+<input type="radio" id="Gender" name="Gender" value="female">
+  <label for="Gender">female</label>
+<br>
+  
+  <label for="degree">Degree:</label>
+  <input type ="text" id ="degree" name="degree"><br>
+  <br>
+  <label for="branch">Branch:</label>
+  <input type ="text" id ="branch" name="branch"><br>
+  <br>
+  <label for="year of passing">Year of passing:</label>
+  <input type ="text" id ="year of passing" name="year of passing"><br>
+  <br>
+  <label for = "maritial status">Maritial status:</label>
+  <input type="radio" id="Maritial status" name="Maritial status" value="yes">
+  
+  <label for="maritial status">Yes</label>
+<input type="radio" id="Maritial status" name="Maritial status" value="No">
+  <label for="Maritial status">No</label><br>
+  <br>
+  <label for="telephoneno">Telephone no :</label>
+  <input type="text" id="telephone no" name="telephone no"><br>
+  <br>
+  <label for="mobile no">Mobile no:</label>
+  <input type="text" id="mobile no" name="mobile no"><br>
+  <br>
+  <label for=" alternate mobile no">alternate mobile no:</label>
+  <input type="text" id="alternate mobile no" name="alternate mobile no"><br>
+  <br>
+  <label for="email">EMAIL:</label>
+  <input type="text" id="email" name="email"><br>
+  <br>
+<label>Current Address:</label> 
+<textarea name="message" rows="3" cols="12">
+</textarea>
+<label class="left">Permanent Address:</label>     
+<textarea name="message" rows="3" cols="12">
+</textarea><br>
+<label>Special Achievements:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+<label>Special Achievements after Graduation:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+<br>
+<label>GATE:</label><input type='text'></br>
+<br>
+<label>GRE:</label><input type='text'></br>
+<br>
+Details of Higher<br>
+ Studies,if<br>
+applicable:<br>
+INDIA/ABROAD<br>
+<br>
+    <label for="course name">CourseName:</label>
+  <input type="text" id="course name" name="course name"><br>
+  <br>
+  <label for="Specialisation">Specialisation:</label>
+  <input type="text" id="Specialisation" name="Specialisation"><br>
+  <br>
+  <label for="university">University:</label>
+  <input type="text" id="university" name="university"><br>
+  <br>
+<label>address:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+   <p> Work<br>Information:<br>INDIA/ABROAD<br></p>
+  <label for="employeer">Employeer:</label>
+  <input type="text" id="employeer" name="employeer"><br>
+  <br>
+  <label for="job designation">Job designation:</label>
+  <input type="text" id="job designation" name="job designation"><br>
+  <br>
+  <label for="office phone no">Office Phoneno:</label>
+  <input type="text" id="office phone no" name="office phone no">
+    <label for="office email">Office email:</label>
+  <input type="text" id="office email" name="office email"><br>
+  <br>
+<label>Field of work:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+  <p> Details of Entrepreneurship,<br>if applicable:<br>INDIA/ABROAD<br></p>
+  <label for="name of organisation">Name Of Organisation:</label>
+  <input type="text" id="name of organisation" name="nameof organisation"><br>
+  <br>
+<label>Address:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+  <label for="products or services offered">Products or Services offered:</label>
+  <input type="text" id="products or services offered" name="products or services offered"><br>
+  <br>
+  <label>Suggestions of work:</label>
+<textarea rows="3" cols="24">
+</textarea></br>
+   <label for="Upload Image">Upload Image:</label>
+    <button name="button" type="button">Choose File</button>
+ <label for="no file chosen">No file chosen</label><br>
+    <br>
+ <button name="button" type="button">Reset</button>  
+  <button name="button" type="button">Submit form</button>
+  
+</form>
+</body>
+</html>
+
+
+output:
+file:///C:/Users/sonik/OneDrive/Desktop/form.html
+
+
+
+
